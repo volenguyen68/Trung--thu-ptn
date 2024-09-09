@@ -4,7 +4,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(rgb(226, 178, 159), rgb(199, 98, 3));
+    background: rgb(226, 178, 159);
     font-size: 20px;
     margin-top: 2em;
     overflow: hidden;
